@@ -1,0 +1,15 @@
+{
+  "name": "expressgrupo33",
+  "version": "1.0.0",
+  "description": "proyecto inicial grupo 33",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test start"
+  },
+  "author": "Rafael",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}
